@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Mediator.RealWorld\bin\Debug\GangOfFour.Mediator.RealWorld.exe.config
+C:\temp\GangOfFour\GangOfFour.Mediator.RealWorld\bin\Debug\GangOfFour.Mediator.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Mediator.RealWorld\bin\Debug\GangOfFour.Mediator.RealWorld.pdb
+C:\temp\GangOfFour\GangOfFour.Mediator.RealWorld\obj\Debug\GangOfFour.Mediator.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Mediator.RealWorld\obj\Debug\GangOfFour.Mediator.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Mediator.RealWorld\bin\Debug\GangOfFour.Mediator.RealWorld.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Mediator.RealWorld\bin\Debug\GangOfFour.Mediator.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Mediator.RealWorld\bin\Debug\GangOfFour.Mediator.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Mediator.RealWorld\obj\Debug\GangOfFour.Mediator.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Mediator.RealWorld\obj\Debug\GangOfFour.Mediator.RealWorld.pdb

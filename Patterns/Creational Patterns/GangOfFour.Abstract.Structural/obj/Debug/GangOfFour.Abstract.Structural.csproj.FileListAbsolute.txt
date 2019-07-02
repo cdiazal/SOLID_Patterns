@@ -1,0 +1,11 @@
+C:\temp\GangOfFour\GangOfFour.Abstract.Structural\bin\Debug\GangOfFour.Abstract.Structural.exe.config
+C:\temp\GangOfFour\GangOfFour.Abstract.Structural\bin\Debug\GangOfFour.Abstract.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Abstract.Structural\bin\Debug\GangOfFour.Abstract.Structural.pdb
+C:\temp\GangOfFour\GangOfFour.Abstract.Structural\obj\Debug\GangOfFour.Abstract.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Abstract.Structural\obj\Debug\GangOfFour.Abstract.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Abstract.Structural\bin\Debug\GangOfFour.Abstract.Structural.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Abstract.Structural\bin\Debug\GangOfFour.Abstract.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Abstract.Structural\bin\Debug\GangOfFour.Abstract.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Abstract.Structural\obj\Debug\GangOfFour.Abstract.Structural.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Abstract.Structural\obj\Debug\GangOfFour.Abstract.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Abstract.Structural\obj\Debug\GangOfFour.Abstract.Structural.pdb

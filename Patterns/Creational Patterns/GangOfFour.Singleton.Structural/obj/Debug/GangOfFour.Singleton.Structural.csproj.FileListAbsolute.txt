@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Singleton.Structural\bin\Debug\GangOfFour.Singleton.Structural.exe.config
+C:\temp\GangOfFour\GangOfFour.Singleton.Structural\bin\Debug\GangOfFour.Singleton.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Singleton.Structural\bin\Debug\GangOfFour.Singleton.Structural.pdb
+C:\temp\GangOfFour\GangOfFour.Singleton.Structural\obj\Debug\GangOfFour.Singleton.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Singleton.Structural\obj\Debug\GangOfFour.Singleton.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Singleton.Structural\bin\Debug\GangOfFour.Singleton.Structural.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Singleton.Structural\bin\Debug\GangOfFour.Singleton.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Singleton.Structural\bin\Debug\GangOfFour.Singleton.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Singleton.Structural\obj\Debug\GangOfFour.Singleton.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Singleton.Structural\obj\Debug\GangOfFour.Singleton.Structural.pdb

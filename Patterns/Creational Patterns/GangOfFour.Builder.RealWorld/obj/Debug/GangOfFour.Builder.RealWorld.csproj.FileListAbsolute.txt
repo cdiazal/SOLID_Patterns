@@ -1,0 +1,12 @@
+C:\temp\GangOfFour\GangOfFour.Builder.RealWorld\obj\Debug\GangOfFour.Builder.RealWorld.csprojResolveAssemblyReference.cache
+C:\temp\GangOfFour\GangOfFour.Builder.RealWorld\bin\Debug\GangOfFour.Builder.RealWorld.exe.config
+C:\temp\GangOfFour\GangOfFour.Builder.RealWorld\bin\Debug\GangOfFour.Builder.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Builder.RealWorld\bin\Debug\GangOfFour.Builder.RealWorld.pdb
+C:\temp\GangOfFour\GangOfFour.Builder.RealWorld\obj\Debug\GangOfFour.Builder.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Builder.RealWorld\obj\Debug\GangOfFour.Builder.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Builder.RealWorld\bin\Debug\GangOfFour.Builder.RealWorld.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Builder.RealWorld\bin\Debug\GangOfFour.Builder.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Builder.RealWorld\bin\Debug\GangOfFour.Builder.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Builder.RealWorld\obj\Debug\GangOfFour.Builder.RealWorld.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Builder.RealWorld\obj\Debug\GangOfFour.Builder.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Builder.RealWorld\obj\Debug\GangOfFour.Builder.RealWorld.pdb

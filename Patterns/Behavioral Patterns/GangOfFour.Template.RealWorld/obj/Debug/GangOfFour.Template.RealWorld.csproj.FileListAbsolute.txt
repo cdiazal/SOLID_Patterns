@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Template.RealWorld\bin\Debug\GangOfFour.Template.RealWorld.exe.config
+C:\temp\GangOfFour\GangOfFour.Template.RealWorld\bin\Debug\GangOfFour.Template.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Template.RealWorld\bin\Debug\GangOfFour.Template.RealWorld.pdb
+C:\temp\GangOfFour\GangOfFour.Template.RealWorld\obj\Debug\GangOfFour.Template.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Template.RealWorld\obj\Debug\GangOfFour.Template.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Template.RealWorld\bin\Debug\GangOfFour.Template.RealWorld.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Template.RealWorld\bin\Debug\GangOfFour.Template.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Template.RealWorld\bin\Debug\GangOfFour.Template.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Template.RealWorld\obj\Debug\GangOfFour.Template.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Template.RealWorld\obj\Debug\GangOfFour.Template.RealWorld.pdb

@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Factory.RealWorld\bin\Debug\GangOfFour.Factory.RealWorld.exe.config
+C:\temp\GangOfFour\GangOfFour.Factory.RealWorld\bin\Debug\GangOfFour.Factory.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Factory.RealWorld\bin\Debug\GangOfFour.Factory.RealWorld.pdb
+C:\temp\GangOfFour\GangOfFour.Factory.RealWorld\obj\Debug\GangOfFour.Factory.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Factory.RealWorld\obj\Debug\GangOfFour.Factory.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Factory.RealWorld\bin\Debug\GangOfFour.Factory.RealWorld.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Factory.RealWorld\bin\Debug\GangOfFour.Factory.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Factory.RealWorld\bin\Debug\GangOfFour.Factory.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Factory.RealWorld\obj\Debug\GangOfFour.Factory.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Factory.RealWorld\obj\Debug\GangOfFour.Factory.RealWorld.pdb

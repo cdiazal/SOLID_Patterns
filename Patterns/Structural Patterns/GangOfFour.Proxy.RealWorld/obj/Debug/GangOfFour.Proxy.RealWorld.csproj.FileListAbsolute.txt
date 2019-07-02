@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Proxy.RealWorld\bin\Debug\GangOfFour.Proxy.RealWorld.exe.config
+C:\temp\GangOfFour\GangOfFour.Proxy.RealWorld\bin\Debug\GangOfFour.Proxy.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Proxy.RealWorld\bin\Debug\GangOfFour.Proxy.RealWorld.pdb
+C:\temp\GangOfFour\GangOfFour.Proxy.RealWorld\obj\Debug\GangOfFour.Proxy.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Proxy.RealWorld\obj\Debug\GangOfFour.Proxy.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Proxy.RealWorld\bin\Debug\GangOfFour.Proxy.RealWorld.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Proxy.RealWorld\bin\Debug\GangOfFour.Proxy.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Proxy.RealWorld\bin\Debug\GangOfFour.Proxy.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Proxy.RealWorld\obj\Debug\GangOfFour.Proxy.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Proxy.RealWorld\obj\Debug\GangOfFour.Proxy.RealWorld.pdb

@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Visitor.Structural\bin\Debug\GangOfFour.Visitor.Structural.exe.config
+C:\temp\GangOfFour\GangOfFour.Visitor.Structural\bin\Debug\GangOfFour.Visitor.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Visitor.Structural\bin\Debug\GangOfFour.Visitor.Structural.pdb
+C:\temp\GangOfFour\GangOfFour.Visitor.Structural\obj\Debug\GangOfFour.Visitor.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Visitor.Structural\obj\Debug\GangOfFour.Visitor.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Visitor.Structural\bin\Debug\GangOfFour.Visitor.Structural.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Visitor.Structural\bin\Debug\GangOfFour.Visitor.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Visitor.Structural\bin\Debug\GangOfFour.Visitor.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Visitor.Structural\obj\Debug\GangOfFour.Visitor.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Visitor.Structural\obj\Debug\GangOfFour.Visitor.Structural.pdb

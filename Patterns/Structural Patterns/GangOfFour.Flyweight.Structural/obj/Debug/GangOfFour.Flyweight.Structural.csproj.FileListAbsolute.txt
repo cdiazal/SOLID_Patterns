@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Flyweight.Structural\bin\Debug\GangOfFour.Flyweight.Structural.exe.config
+C:\temp\GangOfFour\GangOfFour.Flyweight.Structural\bin\Debug\GangOfFour.Flyweight.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Flyweight.Structural\bin\Debug\GangOfFour.Flyweight.Structural.pdb
+C:\temp\GangOfFour\GangOfFour.Flyweight.Structural\obj\Debug\GangOfFour.Flyweight.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Flyweight.Structural\obj\Debug\GangOfFour.Flyweight.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Flyweight.Structural\bin\Debug\GangOfFour.Flyweight.Structural.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Flyweight.Structural\bin\Debug\GangOfFour.Flyweight.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Flyweight.Structural\bin\Debug\GangOfFour.Flyweight.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Flyweight.Structural\obj\Debug\GangOfFour.Flyweight.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Flyweight.Structural\obj\Debug\GangOfFour.Flyweight.Structural.pdb

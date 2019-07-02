@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Mediator.Structural\bin\Debug\GangOfFour.Mediator.Structural.exe.config
+C:\temp\GangOfFour\GangOfFour.Mediator.Structural\bin\Debug\GangOfFour.Mediator.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Mediator.Structural\bin\Debug\GangOfFour.Mediator.Structural.pdb
+C:\temp\GangOfFour\GangOfFour.Mediator.Structural\obj\Debug\GangOfFour.Mediator.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Mediator.Structural\obj\Debug\GangOfFour.Mediator.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Mediator.Structural\bin\Debug\GangOfFour.Mediator.Structural.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Mediator.Structural\bin\Debug\GangOfFour.Mediator.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Mediator.Structural\bin\Debug\GangOfFour.Mediator.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Mediator.Structural\obj\Debug\GangOfFour.Mediator.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Mediator.Structural\obj\Debug\GangOfFour.Mediator.Structural.pdb

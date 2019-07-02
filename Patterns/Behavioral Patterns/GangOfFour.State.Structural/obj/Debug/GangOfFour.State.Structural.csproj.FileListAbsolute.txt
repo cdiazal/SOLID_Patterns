@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.State.Structural\bin\Debug\GangOfFour.State.Structural.exe.config
+C:\temp\GangOfFour\GangOfFour.State.Structural\bin\Debug\GangOfFour.State.Structural.exe
+C:\temp\GangOfFour\GangOfFour.State.Structural\bin\Debug\GangOfFour.State.Structural.pdb
+C:\temp\GangOfFour\GangOfFour.State.Structural\obj\Debug\GangOfFour.State.Structural.exe
+C:\temp\GangOfFour\GangOfFour.State.Structural\obj\Debug\GangOfFour.State.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.State.Structural\bin\Debug\GangOfFour.State.Structural.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.State.Structural\bin\Debug\GangOfFour.State.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.State.Structural\bin\Debug\GangOfFour.State.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.State.Structural\obj\Debug\GangOfFour.State.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.State.Structural\obj\Debug\GangOfFour.State.Structural.pdb

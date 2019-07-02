@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Flyweight.RealWorld\bin\Debug\GangOfFour.Flyweight.RealWorld.exe.config
+C:\temp\GangOfFour\GangOfFour.Flyweight.RealWorld\bin\Debug\GangOfFour.Flyweight.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Flyweight.RealWorld\bin\Debug\GangOfFour.Flyweight.RealWorld.pdb
+C:\temp\GangOfFour\GangOfFour.Flyweight.RealWorld\obj\Debug\GangOfFour.Flyweight.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Flyweight.RealWorld\obj\Debug\GangOfFour.Flyweight.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Flyweight.RealWorld\bin\Debug\GangOfFour.Flyweight.RealWorld.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Flyweight.RealWorld\bin\Debug\GangOfFour.Flyweight.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Flyweight.RealWorld\bin\Debug\GangOfFour.Flyweight.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Flyweight.RealWorld\obj\Debug\GangOfFour.Flyweight.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Flyweight.RealWorld\obj\Debug\GangOfFour.Flyweight.RealWorld.pdb

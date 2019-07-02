@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Prototype.RealWorld\bin\Debug\GangOfFour.Prototype.RealWorld.exe.config
+C:\temp\GangOfFour\GangOfFour.Prototype.RealWorld\bin\Debug\GangOfFour.Prototype.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Prototype.RealWorld\bin\Debug\GangOfFour.Prototype.RealWorld.pdb
+C:\temp\GangOfFour\GangOfFour.Prototype.RealWorld\obj\Debug\GangOfFour.Prototype.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Prototype.RealWorld\obj\Debug\GangOfFour.Prototype.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Prototype.RealWorld\bin\Debug\GangOfFour.Prototype.RealWorld.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Prototype.RealWorld\bin\Debug\GangOfFour.Prototype.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Prototype.RealWorld\bin\Debug\GangOfFour.Prototype.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Prototype.RealWorld\obj\Debug\GangOfFour.Prototype.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Prototype.RealWorld\obj\Debug\GangOfFour.Prototype.RealWorld.pdb

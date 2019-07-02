@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Facade.Structural\bin\Debug\GangOfFour.Facade.Structural.exe.config
+C:\temp\GangOfFour\GangOfFour.Facade.Structural\bin\Debug\GangOfFour.Facade.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Facade.Structural\bin\Debug\GangOfFour.Facade.Structural.pdb
+C:\temp\GangOfFour\GangOfFour.Facade.Structural\obj\Debug\GangOfFour.Facade.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Facade.Structural\obj\Debug\GangOfFour.Facade.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Facade.Structural\bin\Debug\GangOfFour.Facade.Structural.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Facade.Structural\bin\Debug\GangOfFour.Facade.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Facade.Structural\bin\Debug\GangOfFour.Facade.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Facade.Structural\obj\Debug\GangOfFour.Facade.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Facade.Structural\obj\Debug\GangOfFour.Facade.Structural.pdb

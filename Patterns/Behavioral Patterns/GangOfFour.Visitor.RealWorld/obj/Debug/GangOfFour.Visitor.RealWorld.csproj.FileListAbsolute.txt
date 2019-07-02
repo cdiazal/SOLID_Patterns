@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Visitor.RealWorld\bin\Debug\GangOfFour.Visitor.RealWorld.exe.config
+C:\temp\GangOfFour\GangOfFour.Visitor.RealWorld\bin\Debug\GangOfFour.Visitor.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Visitor.RealWorld\bin\Debug\GangOfFour.Visitor.RealWorld.pdb
+C:\temp\GangOfFour\GangOfFour.Visitor.RealWorld\obj\Debug\GangOfFour.Visitor.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Visitor.RealWorld\obj\Debug\GangOfFour.Visitor.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Visitor.RealWorld\bin\Debug\GangOfFour.Visitor.RealWorld.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Visitor.RealWorld\bin\Debug\GangOfFour.Visitor.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Visitor.RealWorld\bin\Debug\GangOfFour.Visitor.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Visitor.RealWorld\obj\Debug\GangOfFour.Visitor.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Visitor.RealWorld\obj\Debug\GangOfFour.Visitor.RealWorld.pdb

@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Decorator.RealWorld\bin\Debug\GangOfFour.Decorator.RealWorld.exe.config
+C:\temp\GangOfFour\GangOfFour.Decorator.RealWorld\bin\Debug\GangOfFour.Decorator.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Decorator.RealWorld\bin\Debug\GangOfFour.Decorator.RealWorld.pdb
+C:\temp\GangOfFour\GangOfFour.Decorator.RealWorld\obj\Debug\GangOfFour.Decorator.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Decorator.RealWorld\obj\Debug\GangOfFour.Decorator.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Decorator.RealWorld\bin\Debug\GangOfFour.Decorator.RealWorld.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Decorator.RealWorld\bin\Debug\GangOfFour.Decorator.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Decorator.RealWorld\bin\Debug\GangOfFour.Decorator.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Decorator.RealWorld\obj\Debug\GangOfFour.Decorator.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Decorator.RealWorld\obj\Debug\GangOfFour.Decorator.RealWorld.pdb

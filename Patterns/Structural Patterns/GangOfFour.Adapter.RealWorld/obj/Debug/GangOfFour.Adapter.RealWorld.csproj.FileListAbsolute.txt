@@ -1,0 +1,11 @@
+C:\temp\GangOfFour\GangOfFour.Adapter.RealWorld\bin\Debug\GangOfFour.Adapter.RealWorld.exe.config
+C:\temp\GangOfFour\GangOfFour.Adapter.RealWorld\bin\Debug\GangOfFour.Adapter.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Adapter.RealWorld\bin\Debug\GangOfFour.Adapter.RealWorld.pdb
+C:\temp\GangOfFour\GangOfFour.Adapter.RealWorld\obj\Debug\GangOfFour.Adapter.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Adapter.RealWorld\obj\Debug\GangOfFour.Adapter.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Adapter.RealWorld\bin\Debug\GangOfFour.Adapter.RealWorld.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Adapter.RealWorld\obj\Debug\GangOfFour.Adapter.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Adapter.RealWorld\obj\Debug\GangOfFour.Adapter.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Adapter.RealWorld\bin\Debug\GangOfFour.Adapter.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Adapter.RealWorld\bin\Debug\GangOfFour.Adapter.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Adapter.RealWorld\obj\Debug\GangOfFour.Adapter.RealWorld.csprojResolveAssemblyReference.cache

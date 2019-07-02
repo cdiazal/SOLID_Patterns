@@ -1,0 +1,11 @@
+C:\temp\GangOfFour\GangOfFour.Bridge.Structural\bin\Debug\GangOfFour.Bridge.Structural.exe.config
+C:\temp\GangOfFour\GangOfFour.Bridge.Structural\bin\Debug\GangOfFour.Bridge.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Bridge.Structural\bin\Debug\GangOfFour.Bridge.Structural.pdb
+C:\temp\GangOfFour\GangOfFour.Bridge.Structural\obj\Debug\GangOfFour.Bridge.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Bridge.Structural\obj\Debug\GangOfFour.Bridge.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Bridge.Structural\bin\Debug\GangOfFour.Bridge.Structural.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Bridge.Structural\bin\Debug\GangOfFour.Bridge.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Bridge.Structural\bin\Debug\GangOfFour.Bridge.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Bridge.Structural\obj\Debug\GangOfFour.Bridge.Structural.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Bridge.Structural\obj\Debug\GangOfFour.Bridge.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Bridge.Structural\obj\Debug\GangOfFour.Bridge.Structural.pdb

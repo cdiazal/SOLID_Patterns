@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01_S", "01_S", "{1FBB4EDE-BC4B-4CC6-A73F-499A9765822E}"
+	ProjectSection(SolutionItems) = preProject
+		UserService.cs = UserService.cs
+		UserService_Refactored.cs = UserService_Refactored.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02_O", "02_O", "{B35CBFE4-0F59-4317-9FFA-21B4D050F391}"
+	ProjectSection(SolutionItems) = preProject
+		Rectangle.cs = Rectangle.cs
+		Rectangle_Refactored.cs = Rectangle_Refactored.cs
+		Rectangle_Refactored_Final.cs = Rectangle_Refactored_Final.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03_L", "03_L", "{2ACB4782-DBB8-49FB-8F0A-20DB9661CDAF}"
+	ProjectSection(SolutionItems) = preProject
+		SqlFile.cs = SqlFile.cs
+		SqlFile_Refactored.cs = SqlFile_Refactored.cs
+		SqlFile_Refactored_Final.cs = SqlFile_Refactored_Final.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04_I", "04_I", "{A08CA6FB-1DE8-4450-903D-1BE4A2DDC86A}"
+	ProjectSection(SolutionItems) = preProject
+		IT_Roles.cs = IT_Roles.cs
+		IT_Roles_Refactored.cs = IT_Roles_Refactored.cs
+		IT_Roles_Refactored_Final.cs = IT_Roles_Refactored_Final.cs
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05_D", "05_D", "{AF7BD748-9A97-4B6D-BFE7-36F11A954BD9}"
+	ProjectSection(SolutionItems) = preProject
+		FileLogger.cs = FileLogger.cs
+		FileLogger_Refactored.cs = FileLogger_Refactored.cs
+		FileLogger_Refactored_Final.cs = FileLogger_Refactored_Final.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9458BE09-3831-4EF1-AF3A-4737F23BB36B}
+	EndGlobalSection
+EndGlobal

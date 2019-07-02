@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Memento.RealWorld\bin\Debug\GangOfFour.Memento.RealWorld.exe.config
+C:\temp\GangOfFour\GangOfFour.Memento.RealWorld\bin\Debug\GangOfFour.Memento.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Memento.RealWorld\bin\Debug\GangOfFour.Memento.RealWorld.pdb
+C:\temp\GangOfFour\GangOfFour.Memento.RealWorld\obj\Debug\GangOfFour.Memento.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Memento.RealWorld\obj\Debug\GangOfFour.Memento.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Memento.RealWorld\bin\Debug\GangOfFour.Memento.RealWorld.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Memento.RealWorld\bin\Debug\GangOfFour.Memento.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Memento.RealWorld\bin\Debug\GangOfFour.Memento.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Memento.RealWorld\obj\Debug\GangOfFour.Memento.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Memento.RealWorld\obj\Debug\GangOfFour.Memento.RealWorld.pdb

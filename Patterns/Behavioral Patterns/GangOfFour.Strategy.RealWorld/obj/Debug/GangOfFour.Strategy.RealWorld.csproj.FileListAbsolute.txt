@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Strategy.RealWorld\bin\Debug\GangOfFour.Strategy.RealWorld.exe.config
+C:\temp\GangOfFour\GangOfFour.Strategy.RealWorld\bin\Debug\GangOfFour.Strategy.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Strategy.RealWorld\bin\Debug\GangOfFour.Strategy.RealWorld.pdb
+C:\temp\GangOfFour\GangOfFour.Strategy.RealWorld\obj\Debug\GangOfFour.Strategy.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Strategy.RealWorld\obj\Debug\GangOfFour.Strategy.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Strategy.RealWorld\bin\Debug\GangOfFour.Strategy.RealWorld.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Strategy.RealWorld\bin\Debug\GangOfFour.Strategy.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Strategy.RealWorld\bin\Debug\GangOfFour.Strategy.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Strategy.RealWorld\obj\Debug\GangOfFour.Strategy.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Strategy.RealWorld\obj\Debug\GangOfFour.Strategy.RealWorld.pdb

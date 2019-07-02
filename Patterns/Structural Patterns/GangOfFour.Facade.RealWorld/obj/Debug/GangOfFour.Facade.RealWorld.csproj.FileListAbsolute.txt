@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Facade.RealWorld\bin\Debug\GangOfFour.Facade.RealWorld.exe.config
+C:\temp\GangOfFour\GangOfFour.Facade.RealWorld\bin\Debug\GangOfFour.Facade.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Facade.RealWorld\bin\Debug\GangOfFour.Facade.RealWorld.pdb
+C:\temp\GangOfFour\GangOfFour.Facade.RealWorld\obj\Debug\GangOfFour.Facade.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Facade.RealWorld\obj\Debug\GangOfFour.Facade.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Facade.RealWorld\bin\Debug\GangOfFour.Facade.RealWorld.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Facade.RealWorld\bin\Debug\GangOfFour.Facade.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Facade.RealWorld\bin\Debug\GangOfFour.Facade.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Facade.RealWorld\obj\Debug\GangOfFour.Facade.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Facade.RealWorld\obj\Debug\GangOfFour.Facade.RealWorld.pdb

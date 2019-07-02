@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Decorator.Structural\bin\Debug\GangOfFour.Decorator.Structural.exe.config
+C:\temp\GangOfFour\GangOfFour.Decorator.Structural\bin\Debug\GangOfFour.Decorator.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Decorator.Structural\bin\Debug\GangOfFour.Decorator.Structural.pdb
+C:\temp\GangOfFour\GangOfFour.Decorator.Structural\obj\Debug\GangOfFour.Decorator.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Decorator.Structural\obj\Debug\GangOfFour.Decorator.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Decorator.Structural\bin\Debug\GangOfFour.Decorator.Structural.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Decorator.Structural\bin\Debug\GangOfFour.Decorator.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Decorator.Structural\bin\Debug\GangOfFour.Decorator.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Decorator.Structural\obj\Debug\GangOfFour.Decorator.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Decorator.Structural\obj\Debug\GangOfFour.Decorator.Structural.pdb

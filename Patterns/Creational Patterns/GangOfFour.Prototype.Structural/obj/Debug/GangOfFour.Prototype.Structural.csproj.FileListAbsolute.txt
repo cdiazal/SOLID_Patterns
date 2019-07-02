@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Prototype.Structural\bin\Debug\GangOfFour.Prototype.Structural.exe.config
+C:\temp\GangOfFour\GangOfFour.Prototype.Structural\bin\Debug\GangOfFour.Prototype.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Prototype.Structural\bin\Debug\GangOfFour.Prototype.Structural.pdb
+C:\temp\GangOfFour\GangOfFour.Prototype.Structural\obj\Debug\GangOfFour.Prototype.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Prototype.Structural\obj\Debug\GangOfFour.Prototype.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Prototype.Structural\bin\Debug\GangOfFour.Prototype.Structural.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Prototype.Structural\bin\Debug\GangOfFour.Prototype.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Prototype.Structural\bin\Debug\GangOfFour.Prototype.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Prototype.Structural\obj\Debug\GangOfFour.Prototype.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Prototype.Structural\obj\Debug\GangOfFour.Prototype.Structural.pdb

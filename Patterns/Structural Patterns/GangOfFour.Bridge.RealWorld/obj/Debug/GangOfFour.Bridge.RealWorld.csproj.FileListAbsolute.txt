@@ -1,0 +1,11 @@
+C:\temp\GangOfFour\GangOfFour.Bridge.RealWorld\bin\Debug\GangOfFour.Bridge.RealWorld.exe.config
+C:\temp\GangOfFour\GangOfFour.Bridge.RealWorld\bin\Debug\GangOfFour.Bridge.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Bridge.RealWorld\bin\Debug\GangOfFour.Bridge.RealWorld.pdb
+C:\temp\GangOfFour\GangOfFour.Bridge.RealWorld\obj\Debug\GangOfFour.Bridge.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Bridge.RealWorld\obj\Debug\GangOfFour.Bridge.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Bridge.RealWorld\bin\Debug\GangOfFour.Bridge.RealWorld.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Bridge.RealWorld\bin\Debug\GangOfFour.Bridge.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Bridge.RealWorld\bin\Debug\GangOfFour.Bridge.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Bridge.RealWorld\obj\Debug\GangOfFour.Bridge.RealWorld.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Bridge.RealWorld\obj\Debug\GangOfFour.Bridge.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Bridge.RealWorld\obj\Debug\GangOfFour.Bridge.RealWorld.pdb

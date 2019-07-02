@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Memento.Structural\bin\Debug\GangOfFour.Memento.Structural.exe.config
+C:\temp\GangOfFour\GangOfFour.Memento.Structural\bin\Debug\GangOfFour.Memento.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Memento.Structural\bin\Debug\GangOfFour.Memento.Structural.pdb
+C:\temp\GangOfFour\GangOfFour.Memento.Structural\obj\Debug\GangOfFour.Memento.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Memento.Structural\obj\Debug\GangOfFour.Memento.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Memento.Structural\bin\Debug\GangOfFour.Memento.Structural.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Memento.Structural\bin\Debug\GangOfFour.Memento.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Memento.Structural\bin\Debug\GangOfFour.Memento.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Memento.Structural\obj\Debug\GangOfFour.Memento.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Memento.Structural\obj\Debug\GangOfFour.Memento.Structural.pdb

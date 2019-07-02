@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Composite.Structural\bin\Debug\GangOfFour.Composite.Structural.exe.config
+C:\temp\GangOfFour\GangOfFour.Composite.Structural\bin\Debug\GangOfFour.Composite.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Composite.Structural\bin\Debug\GangOfFour.Composite.Structural.pdb
+C:\temp\GangOfFour\GangOfFour.Composite.Structural\obj\Debug\GangOfFour.Composite.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Composite.Structural\obj\Debug\GangOfFour.Composite.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Composite.Structural\bin\Debug\GangOfFour.Composite.Structural.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Composite.Structural\bin\Debug\GangOfFour.Composite.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Composite.Structural\bin\Debug\GangOfFour.Composite.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Composite.Structural\obj\Debug\GangOfFour.Composite.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Composite.Structural\obj\Debug\GangOfFour.Composite.Structural.pdb

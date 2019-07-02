@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Interpreter.RealWorld\bin\Debug\GangOfFour.Interpreter.RealWorld.exe.config
+C:\temp\GangOfFour\GangOfFour.Interpreter.RealWorld\bin\Debug\GangOfFour.Interpreter.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Interpreter.RealWorld\bin\Debug\GangOfFour.Interpreter.RealWorld.pdb
+C:\temp\GangOfFour\GangOfFour.Interpreter.RealWorld\obj\Debug\GangOfFour.Interpreter.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Interpreter.RealWorld\obj\Debug\GangOfFour.Interpreter.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Interpreter.RealWorld\bin\Debug\GangOfFour.Interpreter.RealWorld.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Interpreter.RealWorld\bin\Debug\GangOfFour.Interpreter.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Interpreter.RealWorld\bin\Debug\GangOfFour.Interpreter.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Interpreter.RealWorld\obj\Debug\GangOfFour.Interpreter.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Interpreter.RealWorld\obj\Debug\GangOfFour.Interpreter.RealWorld.pdb

@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Iterator.Structural\bin\Debug\GangOfFour.Iterator.Structural.exe.config
+C:\temp\GangOfFour\GangOfFour.Iterator.Structural\bin\Debug\GangOfFour.Iterator.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Iterator.Structural\bin\Debug\GangOfFour.Iterator.Structural.pdb
+C:\temp\GangOfFour\GangOfFour.Iterator.Structural\obj\Debug\GangOfFour.Iterator.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Iterator.Structural\obj\Debug\GangOfFour.Iterator.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Iterator.Structural\bin\Debug\GangOfFour.Iterator.Structural.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Iterator.Structural\bin\Debug\GangOfFour.Iterator.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Iterator.Structural\bin\Debug\GangOfFour.Iterator.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Iterator.Structural\obj\Debug\GangOfFour.Iterator.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Iterator.Structural\obj\Debug\GangOfFour.Iterator.Structural.pdb

@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Iterator.RealWorld\bin\Debug\GangOfFour.Iterator.RealWorld.exe.config
+C:\temp\GangOfFour\GangOfFour.Iterator.RealWorld\bin\Debug\GangOfFour.Iterator.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Iterator.RealWorld\bin\Debug\GangOfFour.Iterator.RealWorld.pdb
+C:\temp\GangOfFour\GangOfFour.Iterator.RealWorld\obj\Debug\GangOfFour.Iterator.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Iterator.RealWorld\obj\Debug\GangOfFour.Iterator.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Iterator.RealWorld\bin\Debug\GangOfFour.Iterator.RealWorld.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Iterator.RealWorld\bin\Debug\GangOfFour.Iterator.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Iterator.RealWorld\bin\Debug\GangOfFour.Iterator.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Iterator.RealWorld\obj\Debug\GangOfFour.Iterator.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Iterator.RealWorld\obj\Debug\GangOfFour.Iterator.RealWorld.pdb

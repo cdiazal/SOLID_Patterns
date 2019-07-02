@@ -1,0 +1,11 @@
+C:\temp\GangOfFour\GangOfFour.Command.RealWorld\bin\Debug\GangOfFour.Command.RealWorld.exe.config
+C:\temp\GangOfFour\GangOfFour.Command.RealWorld\bin\Debug\GangOfFour.Command.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Command.RealWorld\bin\Debug\GangOfFour.Command.RealWorld.pdb
+C:\temp\GangOfFour\GangOfFour.Command.RealWorld\obj\Debug\GangOfFour.Command.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Command.RealWorld\obj\Debug\GangOfFour.Command.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Command.RealWorld\bin\Debug\GangOfFour.Command.RealWorld.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Command.RealWorld\bin\Debug\GangOfFour.Command.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Command.RealWorld\bin\Debug\GangOfFour.Command.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Command.RealWorld\obj\Debug\GangOfFour.Command.RealWorld.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Command.RealWorld\obj\Debug\GangOfFour.Command.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Command.RealWorld\obj\Debug\GangOfFour.Command.RealWorld.pdb

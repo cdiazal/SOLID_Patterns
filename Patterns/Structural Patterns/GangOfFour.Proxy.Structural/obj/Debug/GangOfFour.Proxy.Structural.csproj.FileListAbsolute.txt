@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Proxy.Structural\bin\Debug\GangOfFour.Proxy.Structural.exe.config
+C:\temp\GangOfFour\GangOfFour.Proxy.Structural\bin\Debug\GangOfFour.Proxy.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Proxy.Structural\bin\Debug\GangOfFour.Proxy.Structural.pdb
+C:\temp\GangOfFour\GangOfFour.Proxy.Structural\obj\Debug\GangOfFour.Proxy.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Proxy.Structural\obj\Debug\GangOfFour.Proxy.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Proxy.Structural\bin\Debug\GangOfFour.Proxy.Structural.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Proxy.Structural\bin\Debug\GangOfFour.Proxy.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Proxy.Structural\bin\Debug\GangOfFour.Proxy.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Proxy.Structural\obj\Debug\GangOfFour.Proxy.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Proxy.Structural\obj\Debug\GangOfFour.Proxy.Structural.pdb

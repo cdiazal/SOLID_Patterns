@@ -1,0 +1,12 @@
+C:\temp\GangOfFour\GangOfFour.Builder.Structural\obj\Debug\GangOfFour.Builder.Structural.csprojResolveAssemblyReference.cache
+C:\temp\GangOfFour\GangOfFour.Builder.Structural\bin\Debug\GangOfFour.Builder.Structural.exe.config
+C:\temp\GangOfFour\GangOfFour.Builder.Structural\bin\Debug\GangOfFour.Builder.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Builder.Structural\bin\Debug\GangOfFour.Builder.Structural.pdb
+C:\temp\GangOfFour\GangOfFour.Builder.Structural\obj\Debug\GangOfFour.Builder.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Builder.Structural\obj\Debug\GangOfFour.Builder.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Builder.Structural\bin\Debug\GangOfFour.Builder.Structural.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Builder.Structural\bin\Debug\GangOfFour.Builder.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Builder.Structural\bin\Debug\GangOfFour.Builder.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Builder.Structural\obj\Debug\GangOfFour.Builder.Structural.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Builder.Structural\obj\Debug\GangOfFour.Builder.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Creational Patterns\GangOfFour.Builder.Structural\obj\Debug\GangOfFour.Builder.Structural.pdb

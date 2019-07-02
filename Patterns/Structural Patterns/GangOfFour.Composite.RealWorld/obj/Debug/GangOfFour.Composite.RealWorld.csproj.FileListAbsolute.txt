@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Composite.RealWorld\bin\Debug\GangOfFour.Composite.RealWorld.exe.config
+C:\temp\GangOfFour\GangOfFour.Composite.RealWorld\bin\Debug\GangOfFour.Composite.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Composite.RealWorld\bin\Debug\GangOfFour.Composite.RealWorld.pdb
+C:\temp\GangOfFour\GangOfFour.Composite.RealWorld\obj\Debug\GangOfFour.Composite.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Composite.RealWorld\obj\Debug\GangOfFour.Composite.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Composite.RealWorld\bin\Debug\GangOfFour.Composite.RealWorld.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Composite.RealWorld\bin\Debug\GangOfFour.Composite.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Composite.RealWorld\bin\Debug\GangOfFour.Composite.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Composite.RealWorld\obj\Debug\GangOfFour.Composite.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Structural Patterns\GangOfFour.Composite.RealWorld\obj\Debug\GangOfFour.Composite.RealWorld.pdb

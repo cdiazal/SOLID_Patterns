@@ -1,0 +1,11 @@
+C:\temp\GangOfFour\GangOfFour.Chain.RealWorld\bin\Debug\GangOfFour.Chain.RealWorld.exe.config
+C:\temp\GangOfFour\GangOfFour.Chain.RealWorld\bin\Debug\GangOfFour.Chain.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Chain.RealWorld\bin\Debug\GangOfFour.Chain.RealWorld.pdb
+C:\temp\GangOfFour\GangOfFour.Chain.RealWorld\obj\Debug\GangOfFour.Chain.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Chain.RealWorld\obj\Debug\GangOfFour.Chain.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Chain.RealWorld\bin\Debug\GangOfFour.Chain.RealWorld.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Chain.RealWorld\obj\Debug\GangOfFour.Chain.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Chain.RealWorld\obj\Debug\GangOfFour.Chain.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Chain.RealWorld\bin\Debug\GangOfFour.Chain.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Chain.RealWorld\bin\Debug\GangOfFour.Chain.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Chain.RealWorld\obj\Debug\GangOfFour.Chain.RealWorld.csprojResolveAssemblyReference.cache

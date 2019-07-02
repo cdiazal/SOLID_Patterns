@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Strategy.Structural\bin\Debug\GangOfFour.Strategy.Structural.exe.config
+C:\temp\GangOfFour\GangOfFour.Strategy.Structural\bin\Debug\GangOfFour.Strategy.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Strategy.Structural\bin\Debug\GangOfFour.Strategy.Structural.pdb
+C:\temp\GangOfFour\GangOfFour.Strategy.Structural\obj\Debug\GangOfFour.Strategy.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Strategy.Structural\obj\Debug\GangOfFour.Strategy.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Strategy.Structural\bin\Debug\GangOfFour.Strategy.Structural.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Strategy.Structural\bin\Debug\GangOfFour.Strategy.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Strategy.Structural\bin\Debug\GangOfFour.Strategy.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Strategy.Structural\obj\Debug\GangOfFour.Strategy.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Strategy.Structural\obj\Debug\GangOfFour.Strategy.Structural.pdb

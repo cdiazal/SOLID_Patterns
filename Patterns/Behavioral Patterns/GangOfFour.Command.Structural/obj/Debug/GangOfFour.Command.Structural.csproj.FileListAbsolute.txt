@@ -1,0 +1,11 @@
+C:\temp\GangOfFour\GangOfFour.Command.Structural\bin\Debug\GangOfFour.Command.Structural.exe.config
+C:\temp\GangOfFour\GangOfFour.Command.Structural\bin\Debug\GangOfFour.Command.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Command.Structural\bin\Debug\GangOfFour.Command.Structural.pdb
+C:\temp\GangOfFour\GangOfFour.Command.Structural\obj\Debug\GangOfFour.Command.Structural.exe
+C:\temp\GangOfFour\GangOfFour.Command.Structural\obj\Debug\GangOfFour.Command.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Command.Structural\bin\Debug\GangOfFour.Command.Structural.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Command.Structural\bin\Debug\GangOfFour.Command.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Command.Structural\bin\Debug\GangOfFour.Command.Structural.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Command.Structural\obj\Debug\GangOfFour.Command.Structural.csprojResolveAssemblyReference.cache
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Command.Structural\obj\Debug\GangOfFour.Command.Structural.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Command.Structural\obj\Debug\GangOfFour.Command.Structural.pdb

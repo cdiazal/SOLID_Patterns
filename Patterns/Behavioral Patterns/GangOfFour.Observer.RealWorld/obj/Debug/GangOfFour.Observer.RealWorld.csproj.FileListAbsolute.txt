@@ -1,0 +1,10 @@
+C:\temp\GangOfFour\GangOfFour.Observer.RealWorld\bin\Debug\GangOfFour.Observer.RealWorld.exe.config
+C:\temp\GangOfFour\GangOfFour.Observer.RealWorld\bin\Debug\GangOfFour.Observer.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Observer.RealWorld\bin\Debug\GangOfFour.Observer.RealWorld.pdb
+C:\temp\GangOfFour\GangOfFour.Observer.RealWorld\obj\Debug\GangOfFour.Observer.RealWorld.exe
+C:\temp\GangOfFour\GangOfFour.Observer.RealWorld\obj\Debug\GangOfFour.Observer.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Observer.RealWorld\bin\Debug\GangOfFour.Observer.RealWorld.exe.config
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Observer.RealWorld\bin\Debug\GangOfFour.Observer.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Observer.RealWorld\bin\Debug\GangOfFour.Observer.RealWorld.pdb
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Observer.RealWorld\obj\Debug\GangOfFour.Observer.RealWorld.exe
+D:\SkyDrive\Documentos\Curso Patrones\GangOfFour\Behavioral Patterns\GangOfFour.Observer.RealWorld\obj\Debug\GangOfFour.Observer.RealWorld.pdb
